@@ -1,0 +1,28 @@
+# Excluded docs/scripts
+COMPLETE_PROJECT_SUMMARY.txt
+INSTALLATION_INSTRUCTIONS.md
+SETUP_GUIDE.md
+START_HERE.md
+quickstart.bat
+quickstart.sh
+requirements.txt
+
+# Env & secrets
+.env
+*.env
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
