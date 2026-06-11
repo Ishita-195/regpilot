@@ -465,7 +465,7 @@ You now have a **complete, production-ready RAG pipeline** that:
 ✅ **Tested** with pytest  
 ✅ **Lightweight** (~200MB)  
 
-**Ready to go live!** 🚀
+**Ready to go live!** 
 
 ---
 
