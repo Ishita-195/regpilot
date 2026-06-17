@@ -5,7 +5,6 @@ SETUP_GUIDE.md
 START_HERE.md
 quickstart.bat
 quickstart.sh
-requirements.txt
 
 # Env & secrets
 .env
@@ -22,6 +21,13 @@ __pycache__/
 dist/
 build/
 *.egg-info/
+
+# Large binary / generated files — not needed for deployment
+data/raw_circulars/
+rag/faiss_index.bin
+rag/faiss_metadata.json
+*.PDF
+*.pdf
 
 # OS
 .DS_Store
