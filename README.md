@@ -2,6 +2,12 @@
 
 A complete, production-ready Retrieval-Augmented Generation (RAG) pipeline for RegPilot that scrapes RBI circulars, processes them with AI, and makes them searchable via semantic search.
 
+<div align="center">
+  <a href="https://regpilot-two.vercel.app/">
+    <img src="https://img.shields.io/badge/▶_Try_the_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+</div>
+
 ## Project Overview
 
 RegPilot is a compliance automation system that:
