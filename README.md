@@ -4,7 +4,7 @@ A complete, production-ready Retrieval-Augmented Generation (RAG) pipeline for R
 
 <div align="center">
   <a href="https://regpilot-two.vercel.app/">
-    <img src="https://img.shields.io/badge/▶_Try_the_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/▶_Try_the_Live_Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
   </a>
 </div>
 
